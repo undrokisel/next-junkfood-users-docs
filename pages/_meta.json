@@ -1,15 +1,24 @@
 {
-  "index": "Introduction",
-  "another": "Другая страница",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
+  "index": "Введение",
+  "tech": "Требования к устройствам",
+  "skills": "Требования к навыкам пользователя",
+  "choose": "Поиск блюд",
+  "addToCart": "Добавление товара в корзину",
+  "checkout": "Оформление заказа",
+  "payment": "Оплата заказа",
+  "register": "Регистрация",
+  "login": "Вход в систему",
+  "lk": "Личный кабинет",
+  "blog": "Блог",
+  "about": "О нас",
+  "vacancy": "Вакансии",
+  "help": "Помощь",
+  "dev": "Вопросы технического обслуживания системы",
+ 
   "contact": {
     "title": "Основное приложение Твоя шаурма ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://next-junkfood.vercel.app",
     "newWindow": true
   }
 }
