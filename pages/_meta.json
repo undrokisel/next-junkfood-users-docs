@@ -1,0 +1,15 @@
+{
+  "index": "Introduction",
+  "another": "Другая страница",
+  "advanced": "Advanced (A Folder)",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Основное приложение Твоя шаурма ↗",
+    "type": "page",
+    "href": "https://twitter.com/shuding_",
+    "newWindow": true
+  }
+}
